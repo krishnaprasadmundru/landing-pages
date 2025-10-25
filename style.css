@@ -105,11 +105,11 @@ width :100% ;
 
 #bottom{
    background-color: red;
-   height:50%;
+   height:30%;
    width:100%;
    background-image:url(https://images.unsplash.com/photo-1473830394358-91588751b241?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870);
    background-size: cover;
-   background-position: center;
+   background-position: 0 40% ;
 }
 
 
