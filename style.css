@@ -42,7 +42,7 @@ width :100% ;
 
 #center{ 
    height:60%;
-   width:100;
+   width:100%;
    /* background-color: aqua;  */
    padding : 40px 80px; 
 } 
@@ -50,7 +50,7 @@ width :100% ;
 #center h1{
    font-size: 65px;
    font-weight: 500;
-   list-style: 80
+
 } 
 
 #center-in{
